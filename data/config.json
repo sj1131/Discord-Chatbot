@@ -1,0 +1,19 @@
+{
+    "name": "ChatBot",
+    "tocken": "ODM1NjQ4ODUyNzY5NTA1MzEw.YISgpA.m4zcEapuykAWpdl716qofEjjZ2w",
+    "prefix": "!",
+    "train": false,
+
+    "id": "TestAdmin",
+    "pw": "TestPassword",
+
+    "activities": {
+        "OnlineActivity": "채팅"
+    },
+
+    "messages": {
+        "AuthErrorMsg": "접근 권한이 없습니다",
+        "IncompleteAuthValueMsg": "아이디와 비밀번호를 포함하여 다시 입력해주세요",
+        "ShutdownMsg": "종료합니다"
+    }
+}
